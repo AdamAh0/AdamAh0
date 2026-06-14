@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=hey,%20I'm%20Adam%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Hey,%20I'm%20Adam%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=full-stack+%26+AI+dev;building+secure+stuff+by+day;debugging+missing+commas+by+night" />
